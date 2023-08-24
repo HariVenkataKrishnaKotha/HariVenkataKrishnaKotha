@@ -1,7 +1,5 @@
 # 💫 About Me:
-I'm currently working on Full Stack Development using .Net 7 and Angular
-
-
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/m6pvmOSXuTEPaKFWBz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/CleverCodeLab-nft-computer-working-m6pvmOSXuTEPaKFWBz">via GIPHY</a></p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harivenkatakrishnakotha) 
 
