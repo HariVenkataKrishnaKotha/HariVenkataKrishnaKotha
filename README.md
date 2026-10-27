@@ -94,7 +94,7 @@ Senior full-stack engineer with **7+ years** in C#/.NET, Angular and Azure.
 
 <p align="center">
   <a href="https://coursera.org/verify/XDV9NLEOE90C"><img src="https://img.shields.io/badge/Coursera-Generative_AI_with_LLMs_%C2%B7_DeepLearning.AI_%C3%97_AWS_%C2%B7_2026-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Generative AI with Large Language Models, DeepLearning.AI and AWS, 2026 (verify on Coursera)" /></a>
-  <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Engineer_(AI--103)_%C2%B7_in_progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI Engineer (AI-103), in progress" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Apps_%26_Agents_Developer_(AI--103)_%C2%B7_in_progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI Apps and Agents Developer Associate (AI-103), in progress" />
 </p>
 
 ---
