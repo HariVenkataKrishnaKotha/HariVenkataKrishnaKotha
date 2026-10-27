@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/HariVenkataKrishnaKotha">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2B7FD4&center=true&vCenter=true&width=640&lines=Senior+.NET+%2F+Azure+engineer;OAuth+2.0+%C2%B7+payments+%C2%B7+microservices;Web+Forms+%E2%86%92+Blazor+migrations+at+scale;Currently+learning%3A+Azure+AI+(AI-103)" alt="Typing animation: what I work on" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2B7FD4&center=true&vCenter=true&width=640&lines=Senior+.NET+%2F+Azure+engineer;Healthcare+APIs%3A+claims%2C+prior+auth+%26+FHIR;OAuth+2.0+%C2%B7+payments+%C2%B7+microservices;Web+Forms+%E2%86%92+Blazor+migrations+at+scale;Loading+GenAI%3A+RAG+%C2%B7+agents+%C2%B7+MCP..." alt="Typing animation: what I work on" />
   </a>
 </p>
 
@@ -87,6 +87,15 @@ Senior full-stack engineer with **7+ years** in C#/.NET, Angular and Azure.
 | **Platform** | Azure (App Service, AKS, Key Vault, Service Bus, Application Insights, Azure DevOps YAML pipelines), Docker, Kubernetes, Redis, Apache Kafka |
 | **Practice** | TDD with xUnit/bUnit, OAuth 2.0 / OpenIddict, Stripe, legacy migrations (.NET Framework → .NET Core, Web Forms → Blazor), technical writing |
 | **Learning now** | Azure AI (AI-103 certification in progress), Python, RAG and agent patterns. Code will appear here once it ships. |
+
+---
+
+### 🎓 Credentials
+
+<p align="center">
+  <a href="https://coursera.org/verify/XDV9NLEOE90C"><img src="https://img.shields.io/badge/Coursera-Generative_AI_with_LLMs_%C2%B7_DeepLearning.AI_%C3%97_AWS_%C2%B7_2026-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Generative AI with Large Language Models, DeepLearning.AI and AWS, 2026 (verify on Coursera)" /></a>
+  <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Engineer_(AI--103)_%C2%B7_in_progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure AI Engineer (AI-103), in progress" />
+</p>
 
 ---
 
